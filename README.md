@@ -6,7 +6,7 @@
 </p>
 
 ### About me
-- I'm currenty studying Data Science and Engineering at PoliTO 📚
+- MSc Degree in Data Science and Engineering at PoliTO 📚
 - Programming languages: Python, Java, C, Kotlin, JS, R, php, html, css 💻
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubenIng93)](https://github.com/anuraghazra/github-readme-stats) -->
